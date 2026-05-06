@@ -76,7 +76,7 @@ Algorithms  ████████████░░░░░░░░  Abdul 
 - [ ] 🧩 Start LeetCode — Easy problems first (Arrays, Strings, Linked Lists)
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
 - [ ] 📘 Learn JavaScript after CSS
-- [ ] 🏆 Apply for internships in 3rd year
+- [ ] 🏆 Apply for internships in 2nd year
 
 ---
 
