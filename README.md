@@ -48,7 +48,7 @@ C           ████████████░░░░░░░░  Up to 
 Java        ████████░░░░░░░░░░░░  Up to Recursion (in progress)
 HTML        ████████████████░░░░  Comfortable
 CSS         ████████████░░░░░░░░  In progress
-JavaScript  █░░░░░░░░░░░░░░░░░░░  Getting Started
+JavaScript  ██████░░░░░░░░░░░░░░  Getting Started
 Algorithms  ████████████░░░░░░░░  Up to Disjoint Set (Union-Find)
 ```
 
