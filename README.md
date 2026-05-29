@@ -70,12 +70,6 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ss-prateek&bg_color=0D1117&color=E5E7EB&line=F97316&point=FACC15&area=true&hide_border=true&custom_title=Vidit's%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
-
-</div>
-
 ---
 
 ## 🧠 LeetCode Stats
