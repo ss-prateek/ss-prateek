@@ -19,7 +19,7 @@ Currently in my **2nd year**, building strong foundations in algorithms, program
 
 - 🔭 Currently learning — **Web Development** & **Algorithms**
 - 🌱 Exploring — **Data Structures & Algorithms**, **Java**
-- 🤖 Starting - Fundamnetals of AI/ML
+- 🤖 Starting - Fundamentals of AI/ML
 - 🎯 Goal — Build real-world projects and crack a good internship by 2nd year
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
 
