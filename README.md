@@ -81,7 +81,7 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 <div align="center">
 
-[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/ss_prateek?theme=tokyonight&show=graph,recent)](https://leetcode.com/u/ss_prateek/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ss_prateek?theme=dark&font=Fira%20Code)](https://leetcode.com/u/ss_prateek/)
 
 </div>
 
