@@ -58,20 +58,20 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 <div align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ss-prateek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-prateek&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ss-prateek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=FACC15&text_color=E5E7EB&ring_color=F97316" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-prateek&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ss-prateek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=ss-prateek&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FACC15&currStreakLabel=F97316" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-[![Vidit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-prateek&theme=tokyo-night&hide_border=true&area=true&custom_title=Vidit's%20GitHub%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ss-prateek&bg_color=0D1117&color=E5E7EB&line=F97316&point=FACC15&area=true&hide_border=true&custom_title=Vidit's%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 
 </div>
 
