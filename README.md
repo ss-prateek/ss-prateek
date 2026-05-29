@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vidit%20Singh%20Sisodia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BTech%20CSE%20%7C%20KIIT%20University&descAlignY=58&descSize=18&descColor=aaaacc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:7C2D12,100:F97316&height=220&section=header&text=Vidit%20Singh%20Sisodia&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=BTech%20CSE%20%7C%20KIIT%20University&descAlignY=58&descSize=18&descColor=FACC15&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F97316,55:7C2D12,100:0D1117&height=130&section=footer" width="100%"/>
 
 *"Every expert was once a beginner. Keep shipping."* 🚀
 
