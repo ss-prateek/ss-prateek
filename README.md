@@ -17,8 +17,9 @@
 Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
 Currently in my **2nd year**, building strong foundations in algorithms, programming, and web development.
 
-- 🔭 Currently learning — **Web Development** (HTML,CSS,JS) & **Algorithms**
+- 🔭 Currently learning — **Web Development** & **Algorithms**
 - 🌱 Exploring — **Data Structures & Algorithms**, **Java**
+- 🤖 Starting - Fundamnetals of AI/ML
 - 🎯 Goal — Build real-world projects and crack a good internship by 2nd year
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
 
@@ -97,7 +98,6 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 - [ ] 🔧 Build my first complete web project (Portfolio / Calculator / Todo App)
 - [ ] ☕ Complete Java through OOP and Collections
-- [ ] 🧩 Start LeetCode — Easy problems first (Arrays, Strings, Linked Lists)
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
 - [ ] 📘 Learn JavaScript after CSS
 - [ ] 🤖 Explore AI/ML fundamentals and build beginner projects
