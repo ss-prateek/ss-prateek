@@ -17,11 +17,10 @@
 Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
 Currently in my **2nd year**, building strong foundations in DSA, programming, and web development.
 
-- 🔭 Currently learning — **JavaScript** & **DSA**
-- 🌱 Exploring — **DSA**, **Java**
-- 🤖 Starting - Fundamentals of AI/ML
-- 🎯 Goal — Build real-world projects and crack a good internship by 2nd year
-- ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
+- 🔭 Currently building — PSS Player (music player) & learning React
+- 🌱 DSA — Striver's A2Z sheet, 50+ LeetCode problems solved
+- 🎯 Goal — Off-campus SWE internship by early 2027
+- ⚡ Fun fact — I started with Python in Class 12 and now I'm shipping full-stack apps with serverless backends 🙃
 
 ---
 
@@ -49,9 +48,23 @@ C           ████████████░░░░░░░░  Up to 
 Java        ████████░░░░░░░░░░░░  Up to Recursion (in progress)
 HTML        ████████████████░░░░  Comfortable
 CSS         ████████████████████  Completed
-JavaScript  ██████████████████░░  Almost complete
-DSA         ██████████░░░░░░░░░░  Up to Binary Search
+JavaScript  ████████████████████  Completed (shipped PSS Player)
+DSA         ████████████░░░░░░░░  Arrays, Binary Search, 50+ LC solved
+React       ████░░░░░░░░░░░░░░░░  Starting
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 PSS Player
+A dark-themed music player built with vanilla HTML, CSS & JavaScript.
+- YouTube IFrame API with custom seek slider
+- Glassmorphic UI with animated ambient background
+- Serverless Google Sheets login backend via Google Apps Script
+- Responsive — desktop 3-panel → mobile single column
+
+**[Live Demo](https://ss-prateek.github.io/PSS_Player/) · [GitHub](https://github.com/ss-prateek/PSS_Player)**
 
 ---
 
@@ -90,12 +103,11 @@ DSA         ██████████░░░░░░░░░░  Up to 
 
 ## 🗺️ Roadmap — What's Next
 
-- [ ] 🔧 Build my first complete web project (Portfolio / Calculator / Todo App)
+- [x] 🔧 Build first complete web project — PSS Player ✅ (live at ss-prateek.github.io/PSS_Player)
 - [ ] ☕ Complete Java through OOP and Collections
+- [ ] ⚛️ Learn React and build a MERN stack project
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
-- [ ] 📘 Complete JavaScript and keep building frontend projects
-- [ ] 🤖 Explore AI/ML fundamentals and build beginner projects
-- [ ] 🏆 Apply for internships in 2nd year
+- [ ] 🏆 Apply for off-campus SWE internships — target April 2027
 
 ---
 
@@ -103,6 +115,7 @@ DSA         ██████████░░░░░░░░░░  Up to 
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/Vidit%20Singh%20Sisodia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viditsinghsisodia/)
 [![Twitter](https://img.shields.io/badge/@ss__prat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ss_prat)
 [![YouTube](https://img.shields.io/badge/@prateek__32-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prateek_32)
 [![Instagram](https://img.shields.io/badge/@ss__prateek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss_prateek/)
