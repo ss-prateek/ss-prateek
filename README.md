@@ -31,8 +31,6 @@ Currently in my **2nd year**, building strong foundations in DSA, programming, a
 
 > A dark-themed music player built entirely with vanilla HTML, CSS & JavaScript. No frameworks, no libraries.
 
-![PSS Player Preview](https://ss-prateek.github.io/PSS_Player/assets/screenshots/workspace_v2.png)
-
 | Feature | Details |
 |---|---|
 | 🎬 Audio Engine | YouTube IFrame API with custom 500ms seek slider |
@@ -42,7 +40,7 @@ Currently in my **2nd year**, building strong foundations in DSA, programming, a
 | 📊 Visualizer | 15-bar bouncing audio visualizer via CSS keyframes |
 | 📱 Responsive | Desktop 3-panel → tablet drawer → mobile single-column |
 
-**[🔗 Live Demo](https://ss-prateek.github.io/PSS_Player/) · [💻 GitHub](https://github.com/ss-prateek/PSS_Player)**
+**[🔗 Live Demo](https://ss-vidit.github.io/PSS_Player/) · [💻 GitHub](https://github.com/ss-prateek/PSS_Player)**
 
 ---
 
