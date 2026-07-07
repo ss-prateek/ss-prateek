@@ -18,7 +18,7 @@ Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫
 Currently in my **2nd year**, building strong foundations in DSA, programming, and web development.
 
 - 🔭 Currently building — **PSS Player** (music player) & learning **React**
-- 🌱 DSA — Striver's A2Z sheet, **50+ LeetCode problems** solved
+- 🌱 DSA — **50+ LeetCode problems** solved
 - 🎯 Goal — Off-campus **SWE internship by early 2027**
 - 💃 Outside tech — Performed at **IIT Kharagpur's Spring Fest 2026** with The Ensemble Crew
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm shipping full-stack apps with serverless backends 🙃
