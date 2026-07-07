@@ -126,7 +126,7 @@ React       ████░░░░░░░░░░░░░░░░  Starti
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Vidit%20Singh%20Sisodia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viditsinghsisodia/)
-[![Twitter](https://img.shields.io/badge/@ss__prat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ss_prat)
+[![Instagram](https://img.shields.io/badge/@ss__prateek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss_prateek/)
 [![GitHub](https://img.shields.io/badge/ss--prateek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss-prateek)
 
 </div>
